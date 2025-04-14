@@ -1,0 +1,104 @@
+.contact-container{
+    font-family: "Poppins SemiBold";
+    padding: 50px 100px;
+}
+
+.section-title {
+    font-size: 36px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .section-subtitle {
+    text-align: center;
+    font-size: 16px;
+    color: #666;
+    border-bottom: 3px var(--dark-orange);
+    margin: 0 auto 30px;
+  }
+
+  .hr{
+    
+    border-radius: 10px;
+    height: 5px;
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    width: 200px;
+}
+
+.background-black{
+    padding: 30px 30px;
+    background-color: rgb(25, 27, 46);
+    margin: 50px;
+    border-radius: 20px;
+    height: 550px;
+    position: relative;
+}
+
+.heading{
+    color:white;
+}
+
+.colz-icon i{
+    color: white;
+    padding: 15px;
+    padding-left: 0px;
+}
+
+.colz-icon i:hover{
+    transform: scale(1.5);
+}
+
+.details{
+    background-color:white;
+    border-radius: 20px;
+    height: 450px;
+    width:500px;
+    position: absolute;
+    right:50px;
+    top:50px;
+}
+
+.inputs,textarea{
+    padding: 30px;
+    
+}
+
+input
+{
+    width: 100%;
+    background-color: #f1eeee;
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+}
+
+textarea{
+    width: 100%;
+    background-color: #f1eeee;
+    border: none;
+    border-radius: 5px;
+}
+
+button{
+    border-color: var(--dark-orange);
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    padding:10px;
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+.texts{
+    color: gray;
+    padding-top: 100px;
+    letter-spacing: 3px;
+    font-weight: Light;
+    font-size: 20px;  
+}
+
+.mailz img{
+    height: 200px;
+    width: 620px;
+}
