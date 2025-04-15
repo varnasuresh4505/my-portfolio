@@ -5,17 +5,17 @@ export default function AboutMe() {
     <div className="about-container" id="aboutme">
       <h2 className="section-title">About Me</h2>
       <hr className="hr"></hr>
-      <p className="section-subtitle">Why Choose Me?</p>
+      <p className="section-subtitle">Why Choose Me?</p>    
       <div className="about-box">
         <div className="about-image">
           <img
-            src={require("../../assets/Home/profile.jpg")}
+            src={require("../../assets/Home/profile.jpg")}      
             alt="Graduation"
           />
         </div>
         <div className="about-text">
           <p className="about-description">
-            Full stack web and mobile developer with background knowledge of
+            Full stack web and mobile developer with background knowledge of       
             MERN stack with Redux, along with a knack of building applications
             with utmost efficiency. Strong professional with a BSC willing to be
             an asset for an organization.
