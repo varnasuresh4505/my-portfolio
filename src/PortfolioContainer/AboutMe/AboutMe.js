@@ -9,7 +9,7 @@ export default function AboutMe() {
       <div className="about-box">
         <div className="about-image">
           <img
-            src="https://i.pinimg.com/736x/aa/63/7f/aa637fab028524705be541bef7707e0b.jpg"
+            src={require("../../assets/Home/profile.jpg")}
             alt="Graduation"
           />
         </div>

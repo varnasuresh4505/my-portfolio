@@ -1,22 +1,21 @@
 import React from 'react';
 import Typical from 'react-typical';
 import './Profile.css';
-
-
 export default function Profile() {
   return (
   <div>
+    <div className="nav-style">
       <nav className="nav">
         <div className="nav-logo">VARNA S</div>
         <ul className="nav-links">
           <li><a href="#home">Home</a></li>
           <li><a href="#aboutme">AboutMe</a></li>
-          <li><a href="#resume">Resume</a></li>
+          <li><a href="#skills">Skills</a></li>
           <li><a href="#testimonial">Testimonial</a></li>
           <li><a href="#contactme">ContactMe</a></li>
         </ul>
       </nav>
-
+    </div>
     <div className='profile-container'>
       <div className='profile-parent'>
         <div className='profile-details'>
@@ -76,7 +75,7 @@ export default function Profile() {
             {""}
             Hire Me{" "}
           </button>
-          <a href='C:\Users\VARNA\Downloads\VARNA S - (RESUME).pdf' download='C:\Users\VARNA\Downloads\VARNA S - (RESUME).pdf'>
+          <a href='/varna_resume.pdf' download='varna_resume.pdf'>
             <button className='btn highlighted-btn'>Get Resume</button>
           </a>
         </div>

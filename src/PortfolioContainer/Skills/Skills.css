@@ -1,0 +1,93 @@
+
+  .skill-wrapper {
+    padding: 100px 200px 200px 200px;
+    background-color: #f8f8f8;
+    
+  }
+  
+  .sectiontitle {
+    font-size: 36px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .sectionsubtitle {
+    text-align: center;
+    font-size: 16px;
+    color: #666;
+    border-bottom: 3px var(--dark-orange);
+    margin: 0 auto 30px;
+    font-family: "Poppins SemiBold";
+  }
+  
+  .skill-container {
+    display: flex;
+    padding:60px;
+    background-color: #eeeceb;
+    border-radius: 20px;
+  }
+  .item h3{
+    font-family: "Poppins SemiBold";
+  }
+
+  .item p{
+    text-align: justify;
+  }
+  
+  .sidebar {
+    width: 220px;
+    background: #1d1b2f;
+    padding: 20px;
+    color: #fff;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar li {
+    padding: 12px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .sidebar li.active,
+  .sidebar li:hover {
+    background: #2e2b44;
+  }
+  
+  .sidebar li i.icon {
+    margin-right: 10px;
+  }
+  
+  .content {
+    flex: 1;
+    padding-left: 40px;
+  }
+  
+  .section .item {
+    margin-bottom: 30px;
+  }
+  
+  .item h3 {
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .item .badge {
+    background-color: #ff5722;
+    color: white;
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 12px;
+  }
+  
