@@ -8,7 +8,7 @@ export default function Footer() {
             <img src={require("../../../assets/Home/shape-bg.png")} 
             alt='no internet connection'
             />
-        </div>
+        </div>  
     </div>
   )    
 }
