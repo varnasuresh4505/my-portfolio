@@ -8,6 +8,6 @@ export default function Home() {
     <div className='home-container' id="home">
         <Profile/>
         <Footer/>
-    </div>
+    </div>  
   )
 }
