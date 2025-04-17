@@ -7,7 +7,7 @@ import Navbar from './PortfolioContainer/NavBar/Navbar';
 function App() {
   return (
     <div>
-      {/* <Navbar/> */}
+      <Navbar/>
       <section id="home">
         <Home/>
       </section>

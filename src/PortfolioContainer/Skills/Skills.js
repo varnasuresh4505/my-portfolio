@@ -6,29 +6,7 @@ export default function Skills() {
 
   const renderContent = () => {
     switch (activeSection) {
-      case "Education":
-        return (
-          <div className="section">
-            <div className="item">
-              <h3>
-                Bachelor of Technology <span className="badge">2023–2027</span>
-              </h3>
-              <p>Bannari Amman Institute of Technology</p>
-            </div>
-            <div className="item">
-              <h3>
-                Higher Secondary School <span className="badge">2020–2022</span>
-              </h3>
-              <p>Public Educational Institution</p>
-            </div>
-            <div className="item">
-              <h3>
-                High School <span className="badge">2015–2020</span>
-              </h3>
-              <p>Public Educational Institution</p>
-            </div>
-          </div>
-        );
+      
       case "Programming Skills":
         return (
           <div className="section">
@@ -92,7 +70,7 @@ export default function Skills() {
       <div className="skill-container">
         <aside className="sidebar">
           <ul>
-            {["Programming Skills", "Projects", "Interests","Education"].map(
+            {["Programming Skills", "Projects", "Interests"].map(
               (section) => (
                 <li
                   key={section}

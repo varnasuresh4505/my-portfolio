@@ -15,24 +15,15 @@ export default function AboutMe() {
         </div>
         <div className="about-text">
           <p className="about-description">
-            Full stack web and mobile developer with background knowledge of       
-            MERN stack with Redux, along with a knack of building applications
-            with utmost efficiency. Strong professional with a BSC willing to be
-            an asset for an organization.
+          Aspiring Full Stack Web and Mobile Developer with a solid foundation in HTML and CSS, currently advancing my skills in React, Next.js, and TypeScript. I have a growing interest in the MERN stack and state management tools like Redux. Passionate about building user-friendly, responsive, and efficient applications.
           </p>
           <h3 className="highlights-title">Here are a Few Highlights:</h3>
           <ul className="highlights-list">
-            <li>🔥 Full Stack web and mobile development</li>
+            <li>🔥 Web development</li>
             <li>🔥 Interactive Front End as per the design</li>
             <li>🔥 React and React Native</li>
             <li>🔥 Redux for State Management</li>
-            <li>🔥 Building REST API</li>
-            <li>🔥 Managing database</li>
           </ul>
-          <div className="about-buttons">
-            <button className="btn hire-btn">Hire Me</button>
-            <button className="btn resume-btn">Get Resume</button>
-          </div>
         </div>
       </div>
     </div>

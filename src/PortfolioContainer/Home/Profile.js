@@ -4,7 +4,7 @@ import './Profile.css';
 export default function Profile() {
   return (
   <div>
-    <div className="nav-style">
+    {/* <div className="nav-style">
       <nav className="nav">
         <div className="nav-logo">VARNA S</div>
         <ul className="nav-links">
@@ -15,7 +15,7 @@ export default function Profile() {
           <li><a href="#contactme">ContactMe</a></li>
         </ul>
       </nav>
-    </div>
+    </div> */}
     <div className='profile-container'>
       <div className='profile-parent'>
         <div className='profile-details'>
@@ -52,15 +52,11 @@ export default function Profile() {
               <Typical
               loop={Infinity}
               steps={[
-                "Enthusiastic Dev ",
+                "Web Developer",
                 1000,
-                "Full Stack Developer",
+                "Engineering Student",
                 1000,
-                "MERN Stack Dev",
-                1000,
-                "Cross Platform Dev",
-                1000,
-                "React Native Dev",
+                "Front- Developer",
                 1000,
               ]}
               />

@@ -32,7 +32,6 @@ export default function ContactMe() {
       <h2 className="section-title">Contact Me</h2>
       <hr className="hr" />
       <p className="section-subtitle">Let's keep in touch</p>
-
       <div className="background-black">
         <div className="heading">
           <h1>Get In Touch...</h1>
@@ -54,8 +53,6 @@ export default function ContactMe() {
             <i className="fa fa-twitter"></i>
           </a>
         </div>
-
-        <div className="texts"></div>
 
         <div className="mailz">
           <p>Ping Me</p>
