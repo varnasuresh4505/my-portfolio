@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className='home-container' id="home">
         <Profile/>
-        <Footer/>
+        <Footer/> 
     </div>  
   )
 }
