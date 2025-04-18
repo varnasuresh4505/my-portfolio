@@ -22,9 +22,9 @@ export default function Skills() {
               <h3>Technical Skills</h3>
               <p>HTML , CSS , Tailwind CSS , UI/UX Design , Git , Github</p>
             </div>
-          </div> 
+          </div>  
         );
-      case "Projects":
+      case "Projects": 
         return (
           <div className="section">
             <div className="item">

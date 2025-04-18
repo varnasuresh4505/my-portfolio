@@ -66,10 +66,10 @@ export default function Profile() {
             </span>
           </span>
         </div>
-        <div className='profile-options'>
-          <button className='btn primary-btn'>
+        <div className='profile-options'> 
+          <button className='btn primary-btn'> 
             {""}
-            Hire Me{" "}
+            Hire Me{" "} 
           </button>
           <a href='/varna_resume.pdf' download='varna_resume.pdf'>
             <button className='btn highlighted-btn'>Get Resume</button>
