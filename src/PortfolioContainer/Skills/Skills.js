@@ -26,7 +26,7 @@ export default function Skills() {
         );
       case "Projects":  
         return (
-          <div className="section"> 
+          <div className="section">   
             <div className="item">
               <h3>Portfolio Website</h3>
               <p>Developed a personal portfolio website using React to showcase my technical skills, academic background, and projects. The website includes smooth navigation, animated UI components, and responsive design for both desktop and mobile devices.</p>
