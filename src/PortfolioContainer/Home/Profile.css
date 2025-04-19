@@ -45,12 +45,22 @@
     font-family: "Poppins Light";
 }
 
+.btn {
+    padding: 10px 24px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 30px;
+  }
+  
+
 .profile-options .highlighted-btn{
     margin:0 0 12px 28px;
+    font-size: 16px;
+    font-weight: 600;
 }
 
 .profile-options .highlighted-btn:hover{
-    margin:0 0 0 28px;
     background-color: cornsilk;
     color:#111;
 }

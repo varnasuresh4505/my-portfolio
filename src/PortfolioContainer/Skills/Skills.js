@@ -12,7 +12,7 @@ export default function Skills() {
           <div className="section">
             <div className="item">
               <h3>Languages</h3>
-              <p>JavaScript, Python, C , Java</p>
+              <p>Python , C , Java , Javascript</p>
             </div>
             <div className="item">
               <h3>Frameworks & Libraries</h3>

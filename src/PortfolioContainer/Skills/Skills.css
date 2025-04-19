@@ -25,6 +25,7 @@
     padding:60px;
     background-color: #eeeceb;
     border-radius: 20px;
+    height:370px;
   }
   .item h3{
     font-family: "Poppins SemiBold";
@@ -36,7 +37,7 @@
   
   .sidebar {
     width: 220px;
-    background: #1d1b2f;
+    background:  rgb(10, 27, 58);
     padding: 20px;
     color: #fff;
     height: 250px;
@@ -82,7 +83,7 @@
     align-items: center;
   }
   
-  
+
   .item .badge {
     background-color: #ff5722;
     color: white;
