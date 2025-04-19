@@ -71,7 +71,7 @@ export default function Navbar() {
               Skills
             </a>
           </li>
-          <li>
+          <li>  
             <a
               href="#contactme"
               onClick={() => handleLinkClick('contactme')}
@@ -79,7 +79,7 @@ export default function Navbar() {
             >
               ContactMe
             </a>
-          </li>
+          </li>  
         </ul>
       </nav>
     </div>
