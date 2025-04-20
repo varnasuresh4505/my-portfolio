@@ -44,8 +44,8 @@ export default function Profile() {
             Hello, I'm <span className='highlighted-text'>Varna</span>
           </span>
         </div>
-        <div className='profile-details-role'>
-          <span className='primary-text'>
+        <div className='profile-details-role'> 
+          <span className='primary-text'> 
             {" "}
             <h1>
               {" "}
