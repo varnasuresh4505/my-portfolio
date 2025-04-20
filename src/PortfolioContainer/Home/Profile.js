@@ -56,7 +56,7 @@ export default function Profile() {
                 1000,
                 "Engineering Student",
                 1000,
-                "Front- Developer",
+                "Front-End Developer",
                 1000,
               ]}
               />
