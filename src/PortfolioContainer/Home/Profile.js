@@ -54,9 +54,9 @@ export default function Profile() {
               steps={[
                 "Web Developer",
                 1000,
-                "Engineering Student",
+                "Engineering Student", 
                 1000,
-                "Front-End Developer",
+                "Front-End Developer", 
                 1000,
               ]}
               />
