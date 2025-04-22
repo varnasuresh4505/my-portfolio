@@ -50,11 +50,11 @@ export default function Profile() {
             <h1>
               {" "}
               <Typical
-              loop={Infinity}
+              loop={Infinity} 
               steps={[ 
                 "Web Developer",
                 1000,
-                "Engineering Student", 
+                "Engineering Student",  
                 1000,
                 "Front-End Developer", 
                 1000,
