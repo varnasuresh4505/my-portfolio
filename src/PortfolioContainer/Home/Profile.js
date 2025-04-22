@@ -38,10 +38,10 @@ export default function Profile() {
               </a> 
             </div>
           </div>
-        <div className='profile-details-name'>
+        <div className='profile-details-name'> 
           <span className='primary-text'>
             {" "}
-            Hello, I'm <span className='highlighted-text'>Varna</span>
+            Hello, I'm <span className='highlighted-text'>Varna</span> 
           </span>
         </div>
         <div className='profile-details-role'> 
