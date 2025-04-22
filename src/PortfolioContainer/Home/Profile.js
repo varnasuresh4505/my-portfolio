@@ -45,13 +45,13 @@ export default function Profile() {
           </span>
         </div>
         <div className='profile-details-role'> 
-          <span className='primary-text'> 
+          <span className='primary-text'>   
             {" "}
             <h1>
               {" "}
               <Typical
               loop={Infinity}
-              steps={[
+              steps={[ 
                 "Web Developer",
                 1000,
                 "Engineering Student", 
