@@ -77,7 +77,7 @@ export default function Skills() {
                   className={activeSection === section ? "active" : ""}
                   onClick={() => setActiveSection(section)}
                 >
-                  <i className="icon"></i> {section}
+                  <i className="icon"></i> {section} 
                 </li>
               )
             )}
