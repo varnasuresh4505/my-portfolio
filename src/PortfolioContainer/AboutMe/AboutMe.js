@@ -15,9 +15,9 @@ export default function AboutMe() {
         </div>
         <div className="about-text">
           <p className="about-description">
-          Aspiring Full Stack Web and Mobile Developer with a solid foundation in HTML and CSS, currently advancing my skills in React, Next.js, and TypeScript. I have a growing interest in the MERN stack and state management tools like Redux. Passionate about building user-friendly, responsive, and efficient applications.
+          Aspiring Full Stack Web and Mobile Developer with a solid foundation in HTML and CSS, currently advancing my skills in React.js, Next.js, and TypeScript. I have a growing interest in the MERN stack and state management tools like Redux. Passionate about building user-friendly, responsive, and efficient applications.
           </p>
-          <h3 className="highlights-title">Here are a Few Highlights:</h3>
+          <h3 className="highlights-title">Here are a Few Highlights</h3>
           <ul className="highlights-list">
             <li>🔥 Web development</li>
             <li>🔥 Interactive Front End as per the design</li>

@@ -64,7 +64,7 @@ export default function Skills() {
 
         <h1 className="sectiontitle">Skills</h1>
         <hr className="hr" />
-        <p className="sectionsubtitle">My Professional and Personal Skills</p>
+        <p className="sectionsubtitle">Areas of Proficiency</p>
   
 
       <div className="skill-container">
