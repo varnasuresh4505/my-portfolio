@@ -72,12 +72,12 @@ export default function Profile() {
             Hire Me{" "} 
           </button>
           <a href='/V-resume.pdf' download='V-resume.pdf'>
-            <button className='btn highlighted-btn'>Get Resume</button>
+            <button className='btn highlighted-btn'>Get Resume</button> 
           </a>
         </div>
         </div>
         <div className='profile-picture'>
-          <div className='profile-picture-background'></div>
+          <div className='profile-picture-background'></div> 
         </div>
       </div>    
     </div>
