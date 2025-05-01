@@ -9,19 +9,19 @@ export default function AboutMe() {
       <div className="about-box">
         <div className="about-image">
           <img
-            src={require("../../assets/Home/profile.jpg")}      
+            src={require("../../assets/Home/img_3.png")}      
             alt="Graduation"
           />
         </div>
         <div className="about-text">
           <p className="about-description">
-          Aspiring Full Stack Web and Mobile Developer with a solid foundation in HTML and CSS, currently advancing my skills in React.js, Next.js, and TypeScript. I have a growing interest in the MERN stack and state management tools like Redux. Passionate about building user-friendly, responsive, and efficient applications.
+          Aspiring Full Stack Web and Mobile Developer with a solid foundation in HTML , CSS and Javascript , currently advancing my skills in React.js, Next.js, and TypeScript. I have a growing interest in the MERN stack and state management tools like Redux. Passionate about building user-friendly, responsive, and efficient applications.
           </p>
           <h3 className="highlights-title">Here are a Few Highlights</h3>
           <ul className="highlights-list">
             <li>🔥 Web development</li>
             <li>🔥 Interactive Front End as per the design</li>
-            <li>🔥 React and React Native</li>
+            <li>🔥 Rapid skill acquisition</li>
             <li>🔥 Redux for State Management</li>
           </ul>
         </div>
