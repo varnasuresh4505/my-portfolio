@@ -19,7 +19,7 @@ export default function ContactMe() {
           console.log(result.text); 
         },
         (error) => {
-          alert("Failed to send message. Try again!"); 
+          alert("Failed to send message. Try again!");  
           console.log(error.text); 
         }
       );
