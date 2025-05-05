@@ -16,11 +16,11 @@ export default function ContactMe() {
       .then(
         (result) => {
           alert("Message sent!");
-          console.log(result.text);
+          console.log(result.text); 
         },
         (error) => {
           alert("Failed to send message. Try again!"); 
-          console.log(error.text);
+          console.log(error.text); 
         }
       );
 
