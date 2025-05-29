@@ -20,7 +20,7 @@ export default function ContactMe() {
         },
         (error) => {
           alert("Failed to send message. Try again!");    
-          console.log(error.text); 
+          console.log(error.text);  
         }
       );
 
